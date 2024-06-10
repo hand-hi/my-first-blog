@@ -1,4 +1,4 @@
-#!/Users/hanhipham/project/djangogirls/myvenv/bin/python3.13
+#!/Users/hanhipham/project/djangogirls/myvenv/bin/python3.12
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
